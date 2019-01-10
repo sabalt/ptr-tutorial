@@ -11,7 +11,7 @@ First, you should read what this repository is about: [Getting started](/GETTING
 
 ### Basics
 
-- [x] Overview: [/courses/git/basics/overview](/courses/git/basics/overview)
+- [] Overview: [/courses/git/basics/overview](/courses/git/basics/overview)
 - [ ] Branches: [/courses/git/basics/branches](courses/git/basics/branches)
 - [ ] Merging: [/courses/git/basics/merging](courses/git/basics/merging)
 - [ ] Rebasing: [/courses/git/basics/rebasing](courses/git/basics/rebasing)
@@ -35,7 +35,7 @@ First, you should read what this repository is about: [Getting started](/GETTING
 
 ### Basics
 
-- [ ] Overview: [/courses/js/basics/overview](/courses/js/basics/overview)
+- [x] Overview: [/courses/js/basics/overview](/courses/js/basics/overview)
 - [ ] Objects: [/courses/js/basics/objects](/courses/js/basics/objects)
 - [ ] Data types: [/courses/js/basics/data-types](/courses/js/basics/data-types)
 - [ ] Functions: [/courses/js/basics/functions](/courses/js/basics/functions)
@@ -69,7 +69,7 @@ Some of these points are covered in the **Basics** courses, but you'll find more
 
 ### Basics
 
-- [ ] Basic types: [/courses/ts/basics/basic-types](/courses/ts/basics/basic-types)
+- [x] Basic types: [/courses/ts/basics/basic-types](/courses/ts/basics/basic-types)
 - [ ] Variable declarations: [/courses/ts/basics/variable-declarations](/courses/ts/basics/variable-declarations)
 - [ ] Interfaces: [/courses/ts/basics/interfaces](/courses/ts/basics/interfaces)
 - [ ] Classes: [/courses/ts/basics/classes](/courses/ts/basics/classes)
