@@ -70,7 +70,7 @@ Some of these points are covered in the **Basics** courses, but you'll find more
 ### Basics
 
 - [x] Basic types: [/courses/ts/basics/basic-types](/courses/ts/basics/basic-types)
-- [ ] Variable declarations: [/courses/ts/basics/variable-declarations](/courses/ts/basics/variable-declarations)
+- [x] Variable declarations: [/courses/ts/basics/variable-declarations](/courses/ts/basics/variable-declarations)
 - [ ] Interfaces: [/courses/ts/basics/interfaces](/courses/ts/basics/interfaces)
 - [ ] Classes: [/courses/ts/basics/classes](/courses/ts/basics/classes)
 - [ ] Functions: [/courses/ts/basics/functions](/courses/ts/basics/functions)
